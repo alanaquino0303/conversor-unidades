@@ -9,7 +9,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 - Conversión de **longitud** entre metros, pies, centímetros y pulgadas.  
 - Conversión de **peso** entre kilogramos, libras, gramos y onzas.  
 - Interfaz de **menú interactivo** en consola.  
-- Validación básica de entradas numéricas.  
+- Validación de entradas numéricas.  
 - Código estructurado y comentado.
 
 ---
