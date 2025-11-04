@@ -1,7 +1,5 @@
 # Conversor de Unidades en C
 
-## Descripción
-
 Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje **C**, que permite realizar conversiones de **temperatura, longitud y peso** desde la línea de comandos.  
 
 ---
