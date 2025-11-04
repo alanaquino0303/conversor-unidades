@@ -32,17 +32,21 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 
 ---
 
-## Ejecución
+## Compilación
 
-### Compilación
+### En Linux o macOS:
 
-#### En Linux o macOS:
+1. Abre una terminal en la carpeta donde se encuentra el archivo.
+2. Compila el programa con:
 
    ```bash
    gcc -o conversor_unidades conversor_unidades.c
    ```
 
-#### En Windows (usando MinGW o similar):
+### En Windows (usando MinGW o similar):
+
+1. Abre CMD o PowerShell en el directorio del archivo.
+2. Compila con:
 
    ```bash
    gcc -o conversor_unidades.exe conversor_unidades.c
@@ -50,7 +54,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 
 ---
 
-### Ejecución del programa
+## Ejecución
 
 **Linux / macOS:**
 
@@ -61,7 +65,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 **Windows:**
 
    ```bash
-   conversor_unidades.exe
+   .\conversor_unidades.exe
    ```
 
 ---
