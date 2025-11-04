@@ -6,7 +6,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 
 ## Características principales
 - Conversión de **temperatura** entre °C, °F y K.  
-- Conversión de **longitud** entre metros, pies, kilómetros y millas.  
+- Conversión de **longitud** entre metros, pies, centímetros y pulgadas.  
 - Conversión de **peso** entre kilogramos, libras, gramos y onzas.  
 - Interfaz de **menú interactivo** en consola.  
 - Validación básica de entradas numéricas.  
