@@ -26,7 +26,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 ## Requisitos
 
 - Compilador C (por ejemplo, GCC o Clang).
-- Sistema operativo compatible con consola (Windows, Linux o macOS).
+- Sistema operativo compatible con consola (Linux, macOS y Windows).
 
 ---
 
