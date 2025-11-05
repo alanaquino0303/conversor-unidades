@@ -1,6 +1,6 @@
 # Conversor de Unidades en C
 
-Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje **C**, que permite realizar conversiones de **temperatura, longitud y peso** desde la línea de comandos.  
+Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje **C**, que permite realizar conversiones de **temperatura, longitud y peso**.
 
 ---
 
@@ -25,7 +25,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 
 ## Requisitos
 
-- Compilador C (por ejemplo, GCC o Clang).
+- Compilador C (GCC o Clang).
 - Sistema operativo compatible con consola (Linux, macOS y Windows).
 
 ---
@@ -41,9 +41,9 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
    gcc -o conversor_unidades conversor_unidades.c
    ```
 
-### En Windows (usando MinGW o similar):
+### En Windows:
 
-1. Abre CMD o PowerShell en el directorio del archivo.
+1. En una terminal dirígete al directorio del archivo.
 2. Compila con:
 
    ```bash
@@ -54,7 +54,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 
 ## Ejecución
 
-**Linux / macOS:**
+**Linux o macOS:**
 
    ```bash
    ./conversor_unidades
@@ -63,7 +63,7 @@ Este proyecto implementa un **conversor de unidades** desarrollado en lenguaje *
 **Windows:**
 
    ```bash
-   .\conversor_unidades.exe
+   conversor_unidades.exe
    ```
 
 ---
